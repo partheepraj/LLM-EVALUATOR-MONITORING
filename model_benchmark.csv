@@ -1,0 +1,4 @@
+Model,Latency,Words,Characters
+llama3.2,12.49,369,2683
+mistral,27.83,117,820
+gemma3,93.34,629,4561
